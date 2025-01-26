@@ -1,0 +1,16 @@
+q: 20
+k: 3
+r: 100
+m: 0
+b: 1
+sd: 1
+nv: 10
+EPOCHS: 200
+h: 32
+init: 300
+sdb: 1
+bw: 3
+sdw: 1
+sdp: 1
+sde: 0.5
+batch_ratio: 0.05

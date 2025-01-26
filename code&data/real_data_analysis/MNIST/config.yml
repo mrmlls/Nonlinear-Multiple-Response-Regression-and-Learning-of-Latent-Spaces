@@ -1,0 +1,9 @@
+outdims: [12,14,16,18,20]
+channels: 1
+image_size: 28
+n_classes: 10
+fold: 10
+batch_size: 128
+alpha: 0.025
+sigma: 0
+EPOCHS: 50
